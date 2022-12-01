@@ -92,7 +92,7 @@ body {
 }
 
 .product__button::before {
-  content: url('images/icon-cart.svg');
+  content: url('../images/icon-cart.svg');
   margin-right: 0.75em;
   vertical-align: middle;
 }
